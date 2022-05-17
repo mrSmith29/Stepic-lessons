@@ -8,5 +8,3 @@ for i in range(len(s) - 1):
         list1 = []
 
 print(c)
-
-
